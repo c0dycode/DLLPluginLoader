@@ -9,19 +9,19 @@
 3. Place any Plugin-Dll in that "Plugins"-folder.
 
 
- 
+Â 
 ## Currently available Plugins by me
 
 - Autoexec: https://github.com/c0dycode/BL-AutoexecDLL
-- CommandInjector (Beta will be publicly available soon)
+- CommandInjector (https://github.com/c0dycode/BL-CommandInjector)
 
 
- 
+Â 
 
 
 
 
- 
+Â 
 # Support
 If you enjoy my work and would like to support me, feel free to do so here :)
 
